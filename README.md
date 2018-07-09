@@ -1,0 +1,2 @@
+# KafkaStormMysqlHDFS
+Storm将Kafka中的数据计算后同时传入Mysql和HDFS
